@@ -1,0 +1,11 @@
+/* Post location wordpress plugin styles for admin */
+
+#location-map {
+	width: 400px;
+	height: 300px;
+}
+
+#find-address {
+	display: block;
+}
+
